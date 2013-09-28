@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi
+directory c:/adt-bundle-windows-x86-20130729/android-ndk-r9/platforms/android-8/arch-arm/usr/include c:/adt-bundle-windows-x86-20130729/android-ndk-r9/sources/cxx-stl/system/include jni/../../../vuforia-sdk-android-2-6-10/build/include
